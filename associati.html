@@ -17,12 +17,10 @@ permalink: /associati/
             <tbody>
                 {% for associato in site.data.associati %}
                 <tr>
-                    <!--
                     <td class="align-middle py-2">
                         <img class="associato-img"
                         src = "/assets/images/associati/{{ associato.logo }}" />
                     </td>
-                    -->
                     <td class="associato-name align-middle pl-2">
                         <a href="{{ associato.web_site_url }}">
                             {{ associato.name }}
@@ -30,9 +28,7 @@ permalink: /associati/
                     </td>
                 </tr>
                 <tr>
-                    <!--
                     <td></td>
-                    -->
                     <td class="align-middle">
                         <p class="associato-description">
                             {{ associato.description }}
