@@ -1,0 +1,16 @@
+---
+---
+
+@import 'bootstrap/bootstrap';
+@import 'custom/includes/header';
+@import 'custom/includes/banner';
+@import 'custom/includes/social_links';
+@import 'custom/pages/homepage';
+@import 'custom/pages/finalita';
+@import 'custom/pages/associati';
+@import 'custom/pages/info';
+@import 'custom/pages/contatti';
+
+html {
+    overflow-y: overlay;
+}

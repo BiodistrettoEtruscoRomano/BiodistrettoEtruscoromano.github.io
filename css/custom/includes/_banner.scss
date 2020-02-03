@@ -1,0 +1,18 @@
+#banner{
+  position: relative;
+  background: url('../assets/images/banner.png');
+  min-height: 200px;
+
+  .primary-overlay{
+    background: rgba(255, 255, 255, 0.205);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .claim{
+    height: 210px;
+  }
+}

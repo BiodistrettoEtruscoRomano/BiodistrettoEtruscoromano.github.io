@@ -1,0 +1,47 @@
+---
+layout: default_no_banner
+title: Associati
+permalink: /associati/
+---
+
+<section id="associati">
+    <div class="container">
+
+        <div class="row mt-4">
+            <div class="col associati-title text-info">
+                Associati
+            </div>
+        </div>
+
+        <table class="claim">
+            <tbody>
+                {% for associato in site.data.associati %}
+                <tr>
+                    <!--
+                    <td class="align-middle py-2">
+                        <img class="associato-img"
+                        src = "/assets/images/associati/{{ associato.logo }}" />
+                    </td>
+                    -->
+                    <td class="associato-name align-middle pl-2">
+                        <a href="{{ associato.web_site_url }}">
+                            {{ associato.name }}
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <!--
+                    <td></td>
+                    -->
+                    <td class="align-middle">
+                        <p class="associato-description">
+                            {{ associato.description }}
+                        </p>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        
+    </div>
+</section>

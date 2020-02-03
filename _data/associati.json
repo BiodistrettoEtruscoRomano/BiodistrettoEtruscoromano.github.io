@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Azienda Caramadre Soc. Agr. Coop.",
+        "logo": "biocaramadre.png",
+        "web_site_url": "http://www.biocaramadre.it/",
+        "description": "Produce ortaggi su una superficie di 60 ettari e vende sia direttamente in azienda che attraverso mercati cittadini e gruppi di acquisto."
+    },
+    {
+        "name": "Azienda Torre in Pietra Leprignana s.s. Soc. Agr.",
+        "logo": "cantinacastelloditorreinpietra.png",
+        "web_site_url": "http://www.castelloditorreinpietra.com/",
+        "description": "Produce vino, olio e legumi. Oltre ad esportare all’estero i vini di propria produzione, ha la vendita diretta presso la Cantina del Castello di Torrimpietra all’interno della quale è presente un originale punto di ristorazione."
+    },
+    {
+        "name": "Azienda Eredi di Giovanni Brandizzi s.s.",
+        "logo": "biola.png",
+        "web_site_url": "http://www.biola.it/",
+        "description": "Allevamento di bovini da carne e da latte; caseificio, macelleria e gelateria in azienda per la produzione e seguente vendita itinerante nelle piazze di Roma attraverso furgoni idoneamente allestiti.  Disponibile anche E-commerce."
+    },
+    {
+        "name": "Agricola di Tragliata s.a.s.",
+        "logo": "borgoditragliata.png",
+        "web_site_url": "http://www.tragliata.it/",
+        "description": "L’azienda, che ospita al suo interno un caratteristico borgo della campagna romana, produce e vende direttamente ortaggi, cereali e legumi. Il borgo è stato trasformato in una struttura turistico-recettiva, comprendente un agriturismo e strutture adatte ad ospitare convegni e banchetti."
+    },
+    {
+        "name": "Azienda Agricola Eredi di Lauteri Antonio s.s.",
+        "logo": "castellaccio.png",
+        "web_site_url": "http://www.casaledelcastellaccio.com/",
+        "description": "Nel cuore della campagna romana, sorge quest'azienda agrituristica impegnata nella produzione di carne bovina e ovina, olio, verdure e uova. I prodotti vengono sia venduti direttamente sia utilizzati nell'agriturismo per la preparazione dei piatti."
+    },
+    {
+        "name": "Azienda Agricola Torre in Pietra Carandini",
+        "logo": "barbabianca.png",
+        "web_site_url": "http://www.barbabianca.it/",
+        "description": "Azienda storica dell’Agro Romano, produce foraggio, ortaggi e cereali. Nel borgo aziendale di Barbabianca offre servizi ricettivi con strutture per picnic e grigliate on plein air, eventi e convegni."
+    },
+    {
+        "name": "Società ARIES Sistemi S.r.l.",
+        "logo": "aries.png",
+        "web_site_url": "http://www.ariessistemi.it/",
+        "description": "Trasformare l’informazione in valore. WiForAgri, mediante stazioni di monitoraggio, sensori wireless e modelli previsionali, consente alle aziende agricole di avere un controllo puntuale sul campo, monitorando con precisione rischi climatici e fitosanitari e risparmiando su trattamenti, perdite e risorse umane."
+    },
+    {
+        "name": "Fondazione Anna Maria Catalano",
+        "logo": "fondazionecatalano.png",
+        "web_site_url": "http://www.fondazionecatalano.it/",
+        "description": "Svolge attività di ricerca e divulgazione sui temi legati all’ambiente, alla tecnologia, alla sicurezza, alla salute e ai beni culturali. Da sempre impegnata nella divulgazione scientifica e nella valorizzazione dei rapporti tra scuole, università, ricerca ed istituzioni locali, nazionali ed europee."
+    }
+]
