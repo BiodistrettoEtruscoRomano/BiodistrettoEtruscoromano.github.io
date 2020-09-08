@@ -40,11 +40,5 @@
         "logo": "aries.png",
         "web_site_url": "http://www.ariessistemi.it/",
         "description": "Trasformare l’informazione in valore. WiForAgri, mediante stazioni di monitoraggio, sensori wireless e modelli previsionali, consente alle aziende agricole di avere un controllo puntuale sul campo, monitorando con precisione rischi climatici e fitosanitari e risparmiando su trattamenti, perdite e risorse umane."
-    },
-    {
-        "name": "Fondazione Anna Maria Catalano",
-        "logo": "fondazionecatalano.png",
-        "web_site_url": "http://www.fondazionecatalano.it/",
-        "description": "Svolge attività di ricerca e divulgazione sui temi legati all’ambiente, alla tecnologia, alla sicurezza, alla salute e ai beni culturali. Da sempre impegnata nella divulgazione scientifica e nella valorizzazione dei rapporti tra scuole, università, ricerca ed istituzioni locali, nazionali ed europee."
     }
 ]
