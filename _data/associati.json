@@ -31,14 +31,44 @@
     },
     {
         "name": "Azienda Agricola Torre in Pietra Carandini",
-        "logo": "barbabianca.png",
-        "web_site_url": "http://www.barbabianca.it/",
-        "description": "Azienda storica dell’Agro Romano, produce foraggio, ortaggi e cereali. Nel borgo aziendale di Barbabianca offre servizi ricettivi con strutture per picnic e grigliate on plein air, eventi e convegni."
+        "logo": "TPC.png",
+        "web_site_url": "http://www.torreinpietracarandini.it/",
+        "description": "Azienda storica dell’Agro Romano, produce foraggio, ortaggi e cereali. Nel borgo aziendale offre servizi ricettivi con strutture per picnic e grigliate on plein air, eventi e convegni."
     },
     {
         "name": "Società ARIES Sistemi S.r.l.",
         "logo": "aries.png",
         "web_site_url": "http://www.ariessistemi.it/",
         "description": "Trasformare l’informazione in valore. WiForAgri, mediante stazioni di monitoraggio, sensori wireless e modelli previsionali, consente alle aziende agricole di avere un controllo puntuale sul campo, monitorando con precisione rischi climatici e fitosanitari e risparmiando su trattamenti, perdite e risorse umane."
+    },
+    {
+        "name": "Azienda Agricola Biologica Casale dei Pozzi",
+        "logo": "Casale dei Pozzi.png",
+        "web_site_url": "http://www.casaledeipozzi.com/",
+        "description": "L’Azienda Agricola Biologica Casale dei Pozzi nasce dal recupero di un terreno e di un casale del 700 in pietra, situato tra le colline della Tolfa e il litorale Nord del Lazio. I nostri prodotti sono il frutto di un paziente lavoro di ricerca e sperimentazione finalizzato alla riscoperta di antichi sapori e ingredienti."
+    },
+    {
+        "name": "Podere 676 Birrificio Agricolo",
+        "logo": "Podere 676.png",
+        "web_site_url": "https://podere676.com/",
+        "description": "Azienda agricola situata nel Comune di Fiumicino, a pochi passi dal centro della città di Roma, immersa nella campagna precisamente a Testa di Lepre. Coltiviamo luppolo ed orzo trasformandoli in diversi tipi di birra artigianale."
+    },
+    {
+        "name": "Azienda Fondi Società Agricola a r.l.",
+        "logo": "Azienda Fondi.png",
+        "web_site_url": "",
+        "description": "Azienda agricola biologica dedita alla coltivazione di cereali e allevamento di animali da carne di ottima qualità."
+    },
+    {
+        "name": "Comune di Fiumicino",
+        "logo": "Comune Fiumicino.png",
+        "web_site_url": "https://www.comune.fiumicino.rm.it/",
+        "description": "Il Comune di Fiumicino è socio del Biodistretto e partecipa attivamente alle sue attività."
+    },
+    {
+        "name": "Comune di Cerveteri",
+        "logo": "Comune Cerveteri.png",
+        "web_site_url": "https://www.comune.cerveteri.rm.it/",
+        "description": "Il Comune di Cerveteri è socio del Biodistretto e partecipa attivamente alle sue attività."
     }
 ]
