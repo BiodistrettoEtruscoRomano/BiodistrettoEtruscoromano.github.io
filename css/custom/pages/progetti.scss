@@ -1,0 +1,27 @@
+#progetti{
+    position: relative;
+    min-height: 200px;
+
+    .progetti-title {
+        font-size: 2em;
+        font-style: italic;
+        margin-top: 12px;
+        margin-bottom: 24px;
+    }
+
+    .progetto-img {
+        height: 60px;
+        width: auto;
+    }
+    
+    .progetto-name {
+        font-size: 1.5em;
+        margin-left: 10px;
+    }
+
+    .progetto-description {
+        font-size: 1.5em;
+        margin-left: 10px;
+    }
+    
+}

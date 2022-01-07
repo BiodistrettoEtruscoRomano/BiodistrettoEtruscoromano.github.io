@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Progetto Comunicazione",
+        "logo": "logo_biodistretto.png",
+        "link": "/progetti/psr32",
+        "description": "Partecipazione al bando PSR 2014-2020 misura 3 sottomisura 3.2",
+        "status": "In corso"
+    },
+    {
+        "name": "Comunità Energetica",
+        "logo": "logo_rec.png",
+        "link": "/progetti/rec",
+        "description": "Realizzazione di una comunità energetica nel territorio del Biodistretto",
+        "status": "Progettazione"
+    }
+]

@@ -1,0 +1,43 @@
+---
+layout: default_no_banner
+title: Progetti
+permalink: /progetti/
+---
+
+<section id="progetti">
+    <div class="container">
+
+        <div class="row mt-4">
+            <div class="col progetti-title text-info">
+                Progetti
+            </div>
+        </div>
+
+        <table class="claim">
+            <tbody>
+                {% for progetto in site.data.progetti %}
+                <tr>
+                    <td class="align-middle py-2">
+                        <img class="progetto-img"
+                        src = "/assets/images/progetti/{{ progetto.logo }}" />
+                    </td>
+                    <td class="progetto-name align-middle pl-2">
+                        <a href="{{ site.baseurl }}{{ progetto.link }}">
+                            {{ progetto.name }}
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td class="align-middle">
+                        <p class="progetto-description">
+                            {{ progetto.description }}
+                        </p>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        
+    </div>
+</section>
