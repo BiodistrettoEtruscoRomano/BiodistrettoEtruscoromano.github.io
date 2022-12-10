@@ -60,6 +60,12 @@
         "description": "Azienda agricola biologica dedita alla coltivazione di cereali e allevamento di animali da carne di ottima qualità."
     },
     {
+        "name": "Azienda Agricola Boccea",
+        "logo": "agricolaboccea.png",
+        "web_site_url": "https://www.agricolaboccea.it",
+        "description": "Azienda Agricola Boccea è un’azienda biologica e biodinamica estesa per 300 ettari tra seminativi, pascoli, ulivi e bosco, gestita da Anna e dai suoi collaboratori. Da oltre 50 anni, l’amore per la terra e la natura ha spinto l’azienda ad abbracciare le pratiche dell’agricoltura biologica e biodinamica. . Grazie a questa scelta e alla volontà di ottenere produzioni misurate e di qualità, Azienda Agricola Boccea è riuscita a recuperare la fertilità dei terreni, a donare benessere agli animali allevati al pascolo, a mantenere e ad assicurare all’ambiente la biodiversità necessaria per conservare l’equilibrio in ogni ciclo produttivo. I risultati, oltre a delineare la mission aziendale, sono prodotti che rispettano la salute dell’uomo e dell’ambiente."
+    },
+    {
         "name": "Comune di Fiumicino",
         "logo": "Comune Fiumicino.png",
         "web_site_url": "https://www.comune.fiumicino.rm.it/",
