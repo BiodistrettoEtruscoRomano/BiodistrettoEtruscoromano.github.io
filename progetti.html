@@ -16,7 +16,7 @@ permalink: /progetti/
         <table class="claim">
             <tbody>
                 {% for progetto in site.data.progetti %}
-                <tr>
+                <tr class="pb-5">
                     <td class="align-middle py-2">
                         <img class="progetto-img"
                         src = "/assets/images/progetti/{{ progetto.logo }}" />
@@ -25,16 +25,22 @@ permalink: /progetti/
                         <a href="{{ site.baseurl }}{{ progetto.link }}">
                             {{ progetto.name }}
                         </a>
+                        <p>
+                            {{ progetto.description }}<br/>
+                            <a href="{{ site.baseurl }}{{ progetto.link }}">
+                                scopri di più...
+                            </a>
+                        </p>
                     </td>
                 </tr>
-                <tr>
+                <!-- <tr>
                     <td></td>
                     <td class="align-middle">
                         <p class="progetto-description">
                             {{ progetto.description }}
                         </p>
                     </td>
-                </tr>
+                </tr> -->
                 {% endfor %}
             </tbody>
         </table>
