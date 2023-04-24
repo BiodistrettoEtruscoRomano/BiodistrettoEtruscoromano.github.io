@@ -11,6 +11,13 @@
         "logo": "logo_cerber.png",
         "link": "/progetti/cerber",
         "description": "Realizzazione di una comunità energetica nel territorio del Biodistretto",
-        "status": "Progettazione"
+        "status": "In corso"
+    },
+    {
+        "name": "Bando della  Regione Lazio per i Biodistretti",
+        "logo": "logo_regione_lazio.png",
+        "link": "/progetti/bandobiodistretti",
+        "description": "Bando per la realizzazione degli interventi e delle azioni di promozione dei biodistretti",
+        "status": "In corso"
     }
 ]
